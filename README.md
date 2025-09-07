@@ -1,31 +1,47 @@
-# SQL Data Analysis Workshop  
+<p align="center">
+  <img width="400" height="300" alt="sql" src="https://github.com/user-attachments/assets/a9b2ba01-8f0c-4974-a0ae-c39523337ab3"/>
+</p>
 
-This project contains solutions and practice tasks from the **SQL Data Analysis Workshop**.  
-It demonstrates skills in writing SQL queries to perform data exploration, filtering, aggregation, and reporting.  
+# 🗄️ SQL Data Analysis Workshop
+This project was developed as part of a task assigned by the **Digital Egypt Pioneers Initiative (DEPI)**,  
+under the **Ministry of Communications and Information Technology (MCIT), Egypt**.  
 
-## 🚀 Project Overview
-- Hands-on SQL exercises for data analysis.  
-- Focus on real-world scenarios such as filtering, grouping, and joining tables.  
-- Structured queries to answer business-related questions.  
+It contains SQL queries and solutions for analyzing datasets, focusing on **filtering, aggregation, joins, and reporting**.  
+The tasks were implemented and documented in a **Jupyter Notebook**.  
 
-## 🛠️ Technologies Used
-- **SQL**  
-- **Jupyter Notebook** (for organizing queries and results)  
+---
 
-## 📂 Files
-- `SQL Data Analysis Workshop.ipynb`: Jupyter Notebook containing all SQL tasks and solutions.  
+## 📌 Overview
+This project demonstrates the use of **SQL for data analysis**.  
+It covers:
+- 🔍 Filtering data using **`WHERE`**
+- 📊 Aggregating results with **`GROUP BY`**
+- 📑 Sorting query results using **`ORDER BY`**
+- 🔗 Combining multiple tables using **`JOIN`**
+- ➕ Applying aggregate functions such as **`AVG`**, **`COUNT`**, **`SUM`**, **`MAX`**
 
-## 📖 How to Use
-1. Open the notebook in **Jupyter Notebook** or **JupyterLab**.  
-2. Run the cells to view the SQL queries and their corresponding outputs.  
-3. Use the queries as a reference for learning or applying SQL in data analysis.  
+The goal is to strengthen SQL query-writing skills through practical exercises.  
+
+---
+
+## 🛠️ Features
+- Hands-on SQL practice queries  
+- Queries designed to answer **real-world business questions**  
+- Usage of key SQL clauses and functions:
+  - **`WHERE`** → filter data  
+  - **`GROUP BY`** → aggregate records  
+  - **`ORDER BY`** → sort results  
+  - **`JOIN`** → merge data across tables  
+  - **`AVG`**, **`COUNT`**, **`SUM`**, **`MAX`** → aggregate functions  
+- Implemented in a **Jupyter Notebook** for better documentation  
+
+---
 
 ## 🎯 Learning Outcomes
-- Writing SQL queries with `SELECT`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`.  
-- Performing **aggregations** (SUM, COUNT, AVG, etc.).  
-- Using **JOINs** to combine multiple tables.  
-- Applying conditions and subqueries for deeper insights.  
+By completing this workshop, you will learn how to:
+- Write efficient SQL queries  
+- Perform data analysis using **aggregations, joins, and filtering**  
+- Translate business requirements into SQL queries  
+- Document SQL work clearly in a notebook    
 
-## 🤝 Acknowledgement
-This project was developed as part of the **Digital Egypt Pioneers Initiative (DEPI)**,  
-under the **Ministry of Communications and Information Technology (MCIT)**.  
+---
